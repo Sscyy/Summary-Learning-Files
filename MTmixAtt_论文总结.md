@@ -275,7 +275,3 @@ MTmixAtt Block × N 层：
 - 其他论文的新场景适配策略是什么？全量微调、适配器、还是其他？
 
 ---
-
-*文档生成时间：2026-03-13*
-*论文：MTmixAtt: Integrating Mixture-of-Experts with Multi-Mix Attention for Large-Scale Recommendation (Meituan)*
-*对比基线：RankMixer (ByteDance)*
